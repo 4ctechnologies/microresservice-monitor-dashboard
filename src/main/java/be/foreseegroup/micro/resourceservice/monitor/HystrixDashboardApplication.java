@@ -1,4 +1,4 @@
-package be.foreseegroup.resourceservice.monitor;
+package be.foreseegroup.micro.resourceservice.monitor;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
